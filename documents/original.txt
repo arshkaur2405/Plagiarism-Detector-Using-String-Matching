@@ -1,0 +1,7 @@
+Artificial Intelligence is transforming many industries.
+Machine learning allows systems to learn from data.
+Data preprocessing is an important step in model development.
+Feature engineering can improve prediction accuracy.
+Deep learning uses neural networks with multiple layers.
+Cloud computing provides scalable computing resources.
+Cybersecurity protects systems from unauthorized access.
