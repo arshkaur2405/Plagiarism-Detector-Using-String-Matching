@@ -4,4 +4,4 @@ Data cleaning is necessary before training a model.
 Feature engineering can improve prediction accuracy.
 Deep learning relies on neural networks.
 Cloud computing provides scalable computing resources.
-Software testing improves application quality.
+Software testing improves application quality. 
