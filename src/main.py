@@ -7,6 +7,7 @@ import sys
 import argparse
 
 # Function to read file content
+# ...
 def read_file(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
